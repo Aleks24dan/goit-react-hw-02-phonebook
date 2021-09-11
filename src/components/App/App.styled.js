@@ -17,7 +17,7 @@ margin: 20px;
 
 `
 export const TitleH1 = styled.h1`
-
+color:#d0cfc7;
 `
 
 export const TitleH2 = styled.h2`
